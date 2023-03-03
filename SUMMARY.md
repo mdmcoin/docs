@@ -1,7 +1,5 @@
 # Table of contents
 
 * [MDMCOIN](README.md)
-
-## Tecnologias
-
-* [Leased Proof of Stake](tecnologias/leased-proof-of-stake.md)
+  * [Leased Proof of Stake](readme/leased-proof-of-stake.md)
+* [Tecnologia](tecnologia.md)
